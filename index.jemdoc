@@ -1,0 +1,145 @@
+# jemdoc: analytics{UA-40888864-1}
+= Onur Kayıran's Homepage
+
+== 
+~~~
+{}{img_left}{docs/pic/website_photo.jpg}{}{187}{196}{}
+Onur Kayıran \n
+
+*Email* : onur.kayiran@amd.com \n
+[http://scholar.google.com/citations?user=SJGrlTQAAAAJ Link to my Google Scholar Profile]
+\n
+~~~
+
+== About
+I completed my Ph.D. studies in [http://www.cse.psu.edu/ Department of Computer Science and Engineering] 
+at [http://www.psu.edu/ The Pennsylvania State University], in 2015, where
+I worked with [http://www.cse.psu.edu/people/das Dr. Chita R. Das] and
+[http://www.cse.psu.edu/~kandemir/ Mahmut T. Kandemir] 
+in [http://www.cse.psu.edu/hpcl High Performance Computing Lab].\n
+I am currently a Postdoc at AMD Research.
+
+== Research Interests
+Broadly, my research interests are in the area of computer architecture. 
+Specifically, I work in GPU architectures, and CPU-GPU heterogeneous architectures.
+I am also interested in NoCs. 
+
+== Publications
+- Jieming Yin, *Onur Kayiran*, Matthew Poremba, Natalie Enright Jerger, Gabriel H. Loh \n 
+[docs/pdf/APU-SynFull-HPCA2016.pdf /Efficient Synthetic Traffic Models for Large, Complex SoCs/], \n
+Proceedings of the [https://sites.google.com/a/lbl.gov/pact2015/ 22nd International Symposium on High Performance Computer Architecture]
+*\<span style=\"color: FireBrick \"\>(HPCA)\<\/span\>*, Barcelona, Spain, March 2016 \n 
+(Acceptance rate: 53/245 ≈ 21.6%) \n
+[docs/pptx/APU-SynFull-HPCA2016.pptx \[Slides\] ] 
+[docs/bib/APU-SynFull-HPCA2016.bib \[Bib\] ]
+
+- Rachata Ausavarungnirun, Saugata Ghose, *Onur Kayiran*, Gabriel H. Loh, Chita R. Das, Mahmut T. Kandemir, Onur Mutlu \n 
+[docs/pdf/MeDiC-PACT2015.pdf /Exploiting Inter-Warp Heterogeneity to Improve GPGPU Performance/], \n
+Proceedings of the [https://sites.google.com/a/lbl.gov/pact2015/ 24th International Conference on Parallel Architectures and Compilation Techniques]
+*\<span style=\"color: FireBrick \"\>(PACT)\<\/span\>*, San Francisco, CA, October 2015 \n 
+(Acceptance rate: 38/179 ≈ 21.2%) \n
+[docs/pptx/MeDiC-PACT2015.pptx \[Slides\] ] 
+[docs/bib/MeDiC-PACT2015.bib \[Bib\] ]
+
+- Adwait Jog, *Onur Kayiran*, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n 
+[docs/pdf/Anatomy-MEMSYS2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
+Proceedings of the [http://www.memsys.io/ 1st International Symposium on Memory Systems] 
+*\<span style=\"color: FireBrick \"\>(MEMSYS)\<\/span\>*, Alexandria, VA, October 2015 \n 
+[docs/pptx/MEMSYS2015-Slides.pptx \[Slides\] ] 
+[docs/bib/MEMSYS2015-bib.bib \[Bib\] ]
+
+- *Onur Kayiran*, Nachiappan CN, Adwait Jog, Rachata Ausavarungnirun, Mahmut T. Kandemir, Gabriel H. Loh, Onur Mutlu, Chita R. Das, \n 
+[docs/pdf/CPUGPU-MICRO2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/], \n
+Proceedings of the [http://www.microarch.org/micro47/ 47th International Symposium on Micro Architecture] 
+*\<span style=\"color: FireBrick \"\>(MICRO)\<\/span\>*, Cambridge, UK, December 2014 \n 
+(Acceptance rate: 53/273 ≈ 19.4%) \n
+[docs/pdf/CPUGPU-MICRO2014-Summary.pdf \[Summary\] ]
+[docs/pptx/MICRO2014-Slides.pptx \[Slides\] ] 
+[docs/pptx/MICRO2014-Lightning.pdf \[Lightning Slides\] ]
+[docs/pptx/MICRO2014-Poster.pdf \[Poster\] ]
+[docs/bib/CPUGPU-MICRO-2014-bib.bib \[Bib\] ]
+
+- *\<span style=\"color: Red\"\>\Best Paper Nomination* \n
+*Onur Kayiran*, Adwait Jog, Mahmut T. Kandemir, Chita R. Das, \n
+[docs/pdf/NMNL-PACT2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
+Proceedings of the [http://www.pactconf.org/ 22nd International Conference on Parallel Architectures and Compilation Techniques] 
+*\<span style=\"color: FireBrick \"\>(PACT)\<\/span\>*, Edinburgh, Scotland, September 2013 \n
+(Acceptance rate: 36/208 ≈ 17.3%) \n
+[docs/pptx/NMNL-PACT-2013-Slides.pptx \[Slides\] ] 
+[docs/bib/NMNL-PACT-2013-bib.bib \[Bib\] ]
+
+- Adwait Jog, *Onur Kayiran*, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravi Iyer, Chita R. Das, \n 
+[docs/pdf/Orchestrated_Scheduling_and_Prefetching_for_GPGPUs_ISCA2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/], \n
+Proceedings of the [http://isca2013.eew.technion.ac.il/ 40th International Symposium on Computer Architecture] 
+*\<span style=\"color: FireBrick \"\>(ISCA)\<\/span\>*, Tel Aviv, Israel, June 2013 \n 
+(Acceptance rate: 56/288 ≈ 19.4%) \n
+[docs/pptx/OSP-ISCA-2013-Slides.pptx \[Slides\] ] 
+[docs/bib/OSP-ISCA-2013-bib.bib \[Bib\] ]
+
+- Adwait Jog, *Onur Kayiran*, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das, \n 
+[docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU Performance/], \n
+Proceedings of the [http://asplos13.rice.edu/ 18th International Conference on Architectural Support for Programming Languages and Operating Systems] 
+*\<span style=\"color: FireBrick \"\>(ASPLOS)\<\/span\>*, Houston, TX, March 2013 \n 
+(Acceptance rate: 44/191 ≈ 23.0%) \n
+[docs/pptx/OWL-ASPLOS-2013-Slides.pptx \[Slides\] ] [docs/bib/OWL-ASPLOS-2013-bib.bib \[Bib\] ]
+
+== PhD Dissertation
+- *Onur Kayiran*, \n
+[https://etda.libraries.psu.edu/paper/26513/ /Parallelism-aware Resource Management Techniques for Many-core Architectures/], \n
+Committee: [http://www.cse.psu.edu/~das Chita Das], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir], 
+[http://www.cse.psu.edu/~yuanxie Yuan Xie], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Kenneth Jenkins], 
+[http://www.ece.cmu.edu/~omutlu Onur Mutlu]
+
+== Technical Reports
+- *Onur Kayiran*, Adwait Jog, Mahmut T. Kandemir, Chita R. Das, \n
+[http://www.cse.psu.edu/research/publications/tech-reports/2012/CSE_Tech_Report-12_006.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n 
+TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
+[docs/bib/NMNL-TECH-bib.bib \[Bib]\]
+
+== Teaching
+- Teaching Assistant, CMPEN 331 - Computer Design and Organization (Spring 2012) \n
+- Teaching Assistant, CMPEN 331 - Computer Design and Organization (Fall 2011) \n
+- Teaching Assistant, CMPEN 331 - Computer Design and Organization (Spring 2011) \n
+- Teaching Assistant, CMPEN 270 - Digital Design: Theory and Practice (Fall 2010) \n
+
+== Experience
+- Postdoc researcher at [http://www.amd.com/ AMD Research], July 2015 - present \n
+- Internship at [http://www.amd.com/ AMD Research], January 2015 - June 2015 \n
+- Internship at [http://www.sisa.samsung.com/ Samsung Information Systems America (SISA) R&D Center], June 2013 - August 2013 \n
+- Internship at [http://www.aselsan.com.tr/ ASELSAN A.Ş.], June 2006 - July 2007 \n
+- Internship at [http://www.tumer.com/ Tümer Mühendislik], June 2005 - July 2006 \n
+
+== Educational Background
+- PhD in [http://www.cse.psu.edu/ Computer Science and Engineering], [http://www.psu.edu/ The Pennsylvania State University], August 2010 - August 2015
+- MSc in [http://cmpe.sjsu.edu/ Computer Engineering], [http://www.sjsu.edu/ San Jose State University], August 2008 - May 2010
+- BSc in [http://www.eee.metu.edu.tr/ Electrical and Electronics Engineering], [http://www.metu.edu.tr/ Middle East Technical University], August 2003 - January 2008
+- High School: [http://www.aaal.meb.k12.tr/ Ankara Atatürk Anadolu Lisesi]
+
+== Service
+- Reviewer for: \n
+  -- TACO 
+  -- CAL 
+  -- MICPRO 
+- External reviewer for: \n
+  -- HPCA 2014
+  -- MICRO 2012
+- On-behalf reviewer for: \n
+  -- 2015 (MICRO, PACT, IPDPS, ISCA, PLDI, HPCA)
+  -- 2014 (MICRO, PACT, ISCA, DAC, HPCA, PPoPP, ASPLOS)
+  -- 2013 (MICRO, ICCAD, PACT, LCTES, ISCA, DAC, HPCA)
+  -- 2012 (MICRO, ISCA, DAC, HPCA)
+
+== Memberships
+- [http://www.computer.org/ IEEE Computer Society] \n
+- [http://www.acm.org/ ACM Student] \n
+- [http://www.sigarch.org/ ACM SIGARCH] \n
+
+== Other
+- Turkish citizen
+- Enjoys tennis, snooker, playing drums and guitar, history and cooking 
+
+== Links
+[http://scholar.google.com/citations?user=SJGrlTQAAAAJ Google Scholar] \n
+[http://www.linkedin.com/in/okayiran LinkedIn] \n
+[http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kayiran:Onur.html DBLP] \n
+[http://nachi.quora.com/How-to-delete-a-range-subset-of-PBS-jobs-from-queue Useful PBS Commands and Scripts]
