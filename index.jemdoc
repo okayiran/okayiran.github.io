@@ -25,6 +25,14 @@ Specifically, I work in GPU architectures, and CPU-GPU heterogeneous architectur
 I am also interested in NoCs. 
 
 == Publications
+- Adwait Jog, *Onur Kayiran*, Ashutosh Pattnaik, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das \n 
+[docs/pdf/CLAMS-SIGMETRICS2016.pdf /Exploiting Core-Criticality for Enhanced GPU Performance/], \n
+Proceedings of the [http://www.sigmetrics.org/sigmetrics2016/ 42nd ACM SIGMETRICS]
+*\<span style=\"color: FireBrick \"\>(SIGMETRICS)\<\/span\>*, Antibes Juan-les-Pins, France, June 2016 \n 
+(Acceptance rate: 28/208 ≈ 13.4%) \n
+[docs/pptx/CLAMS-SIGMETRICS2016.pptx \[Slides\] ] 
+[docs/bib/CLAMS-SIGMETRICS20162016.bib \[Bib\] ]
+
 - Jieming Yin, *Onur Kayiran*, Matthew Poremba, Natalie Enright Jerger, Gabriel H. Loh \n 
 [docs/pdf/APU-SynFull-HPCA2016.pdf /Efficient Synthetic Traffic Models for Large, Complex SoCs/], \n
 Proceedings of the [https://sites.google.com/a/lbl.gov/pact2015/ 22nd International Symposium on High Performance Computer Architecture]
