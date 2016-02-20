@@ -12,12 +12,12 @@ Onur Kayıran \n
 ~~~
 
 == About
+I am a post-doctoral researcher at AMD Research.
 I completed my Ph.D. studies in [http://www.cse.psu.edu/ Department of Computer Science and Engineering] 
 at [http://www.psu.edu/ The Pennsylvania State University], in 2015, where
 I worked with [http://www.cse.psu.edu/people/das Dr. Chita R. Das] and
 [http://www.cse.psu.edu/~kandemir/ Mahmut T. Kandemir] 
 in [http://www.cse.psu.edu/hpcl High Performance Computing Lab].\n
-I am currently a Postdoc at AMD Research.
 
 == Research Interests
 Broadly, my research interests are in the area of computer architecture. 
@@ -129,13 +129,14 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
   -- CAL 
   -- MICPRO 
 - External reviewer for: \n
+  -- ICS 2016
   -- HPCA 2014
   -- MICRO 2012
-- On-behalf reviewer for: \n
-  -- 2015 (MICRO, PACT, IPDPS, ISCA, PLDI, HPCA)
-  -- 2014 (MICRO, PACT, ISCA, DAC, HPCA, PPoPP, ASPLOS)
-  -- 2013 (MICRO, ICCAD, PACT, LCTES, ISCA, DAC, HPCA)
-  -- 2012 (MICRO, ISCA, DAC, HPCA)
+#- On-behalf reviewer for: \n
+#  -- 2015 (MICRO, PACT, IPDPS, ISCA, PLDI, HPCA)
+#  -- 2014 (MICRO, PACT, ISCA, DAC, HPCA, PPoPP, ASPLOS)
+#  -- 2013 (MICRO, ICCAD, PACT, LCTES, ISCA, DAC, HPCA)
+#  -- 2012 (MICRO, ISCA, DAC, HPCA)
 
 == Memberships
 - [http://www.computer.org/ IEEE Computer Society] \n
