@@ -25,6 +25,15 @@ Specifically, I work in GPU architectures, and CPU-GPU heterogeneous architectur
 I am also interested in NoCs. 
 
 == Publications
+- Reena Panda, Yasuko Eckert, Nuwan Jayasena, *Onur Kayiran*, Michael Boyer, Lizy K. John\n 
+Prefetching Techniques for Near-memory Throughput-processors, \n
+# [docs/pdf/PIM-prefetch-ICS2016.pdf /Prefetching Techniques for Near-memory Throughput-processors/], \n
+Proceedings of the [http://ics16.bilkent.edu.tr/index.htm 30th ACM International Conference on Supercomputing]
+*\<span style=\"color: FireBrick \"\>(ICS)\<\/span\>*, Istanbul, Turkey, June 2016 \n 
+(Acceptance rate: 43/178 ≈ 24.2%) \n
+# [docs/pptx/PIM-prefetch-ICS2016.pptx \[Slides\] ] 
+# [docs/bib/PIM-prefetch-ICS2016.bib \[Bib\] ]
+
 - Adwait Jog, *Onur Kayiran*, Ashutosh Pattnaik, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das \n 
 [docs/pdf/CLAMS-SIGMETRICS2016.pdf /Exploiting Core-Criticality for Enhanced GPU Performance/], \n
 Proceedings of the [http://www.sigmetrics.org/sigmetrics2016/ 42nd ACM SIGMETRICS]
