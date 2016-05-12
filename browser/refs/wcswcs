@@ -1,0 +1,2 @@
+<dec f='include/wchar.h' l='248' type='wchar_t * wcswcs(const wchar_t * __haystack, const wchar_t * __needle)'/>
+<doc f='include/wchar.h' l='247'>/* Another name for `wcsstr&apos; from XPG4.  */</doc>

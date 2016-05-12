@@ -1,0 +1,9 @@
+<def f='include/bits/pthreadtypes.h' l='78'/>
+<size>40</size>
+<mbr r='(anonymousunion)::__pthread_mutex_s::__lock' o='0' t='int'/>
+<mbr r='(anonymousunion)::__pthread_mutex_s::__count' o='32' t='unsigned int'/>
+<mbr r='(anonymousunion)::__pthread_mutex_s::__owner' o='64' t='int'/>
+<mbr r='(anonymousunion)::__pthread_mutex_s::__nusers' o='96' t='unsigned int'/>
+<mbr r='(anonymousunion)::__pthread_mutex_s::__kind' o='128' t='int'/>
+<mbr r='(anonymousunion)::__pthread_mutex_s::__spins' o='160' t='int'/>
+<mbr r='(anonymousunion)::__pthread_mutex_s::__list' o='192' t='__pthread_list_t'/>

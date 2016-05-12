@@ -1,0 +1,4 @@
+<dec f='include/bits/typesizes.h' l='30'/>
+<use f='include/bits/types.h' l='137' u='c'/>
+<doc f='include/bits/typesizes.h' l='27'>/* See &lt;bits/types.h&gt; for the meaning of these macros.  This file exists so
+   that &lt;bits/types.h&gt; need not vary across different GNU platforms.  */</doc>

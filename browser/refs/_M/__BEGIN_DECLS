@@ -1,0 +1,11 @@
+<dec f='include/sys/cdefs.h' l='90'/>
+<use f='include/wchar.h' l='118' u='c'/>
+<use f='include/locale.h' l='32' u='c'/>
+<use f='include/ctype.h' l='30' u='c'/>
+<use f='include/bits/sched.h' l='70' u='c'/>
+<use f='include/sched.h' l='37' u='c'/>
+<use f='include/time.h' l='31' u='c'/>
+<use f='include/signal.h' l='31' u='c'/>
+<use f='include/pthread.h' l='219' u='c'/>
+<use f='include/wctype.h' l='116' u='c'/>
+<use f='include/wctype.h' l='227' u='c'/>

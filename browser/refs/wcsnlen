@@ -1,0 +1,2 @@
+<dec f='include/wchar.h' l='254' type='size_t wcsnlen(const wchar_t * __s, size_t __maxlen)'/>
+<doc f='include/wchar.h' l='253'>/* Return the number of wide characters in S, but at most MAXLEN.  */</doc>

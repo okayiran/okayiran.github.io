@@ -1,0 +1,4 @@
+<dec f='include/wchar.h' l='47'/>
+<dec f='include/wctype.h' l='34'/>
+<doc f='include/wctype.h' l='32'>/* We try to get wint_t from &lt;stddef.h&gt;, but not all GCC versions define it
+   there.  So define it ourselves if it remains undefined.  */</doc>

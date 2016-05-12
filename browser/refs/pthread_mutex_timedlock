@@ -1,0 +1,2 @@
+<dec f='include/pthread.h' l='736' type='int pthread_mutex_timedlock(pthread_mutex_t *__restrict __mutex, const struct timespec *__restrict __abstime)'/>
+<doc f='include/pthread.h' l='735'>/* Wait until lock becomes available, or specified time passes. */</doc>

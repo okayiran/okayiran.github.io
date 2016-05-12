@@ -1,0 +1,4 @@
+<dec f='include/sched.h' l='28'/>
+<use f='include/time.h' l='27' u='a'/>
+<use f='include/time.h' l='114' u='a'/>
+<use f='include/time.h' l='128' u='w'/>

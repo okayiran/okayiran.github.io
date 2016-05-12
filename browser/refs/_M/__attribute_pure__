@@ -1,0 +1,16 @@
+<dec f='include/sys/cdefs.h' l='206'/>
+<use f='include/wchar.h' l='150' u='c'/>
+<use f='include/wchar.h' l='153' u='c'/>
+<use f='include/wchar.h' l='208' u='c'/>
+<use f='include/wchar.h' l='211' u='c'/>
+<use f='include/wchar.h' l='218' u='c'/>
+<use f='include/wchar.h' l='225' u='c'/>
+<use f='include/wchar.h' l='229' u='c'/>
+<use f='include/wchar.h' l='232' u='c'/>
+<use f='include/wchar.h' l='235' u='c'/>
+<use f='include/wchar.h' l='243' u='c'/>
+<use f='include/wchar.h' l='249' u='c'/>
+<use f='include/wchar.h' l='255' u='c'/>
+<use f='include/wchar.h' l='262' u='c'/>
+<use f='include/wchar.h' l='267' u='c'/>
+<use f='include/wchar.h' l='302' u='c'/>

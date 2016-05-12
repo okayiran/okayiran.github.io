@@ -1,0 +1,2 @@
+<dec f='include/pthread.h' l='764' type='int pthread_mutex_consistent_np(pthread_mutex_t * __mutex)'/>
+<doc f='include/pthread.h' l='763'>/* Declare the state protected by MUTEX as consistent.  */</doc>

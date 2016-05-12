@@ -1,0 +1,12 @@
+<dec f='include/features.h' l='185'/>
+<use f='include/features.h' l='231' u='w'/>
+<dec f='include/features.h' l='232'/>
+<use f='include/stdio.h' l='49' u='a'/>
+<use f='include/wchar.h' l='396' u='a'/>
+<use f='include/wchar.h' l='416' u='a'/>
+<use f='include/wchar.h' l='610' u='a'/>
+<use f='include/wchar.h' l='679' u='a'/>
+<use f='include/locale.h' l='94' u='a'/>
+<use f='include/ctype.h' l='125' u='a'/>
+<use f='include/wctype.h' l='44' u='a'/>
+<use f='include/wctype.h' l='175' u='a'/>

@@ -1,0 +1,9 @@
+<dec f='include/wctype.h' l='98' type='11'/>
+<use f='include/wctype.h' l='111' u='r'/>
+<use f='include/wctype.h' l='111' u='r'/>
+<use f='include/wctype.h' l='111' u='r'/>
+<use f='include/wctype.h' l='111' u='r'/>
+<use f='include/wctype.h' l='111' u='r'/>
+<use f='include/wctype.h' l='111' u='r'/>
+<use f='include/wctype.h' l='111' u='r'/>
+<doc f='include/wctype.h' l='98'>/* Alphanumeric.  */</doc>

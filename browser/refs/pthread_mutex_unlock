@@ -1,0 +1,2 @@
+<dec f='include/pthread.h' l='742' type='int pthread_mutex_unlock(pthread_mutex_t * __mutex)'/>
+<doc f='include/pthread.h' l='741'>/* Unlock a mutex.  */</doc>

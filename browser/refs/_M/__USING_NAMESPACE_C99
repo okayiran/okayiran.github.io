@@ -1,0 +1,4 @@
+<dec f='include/sys/cdefs.h' l='119'/>
+<use f='include/wchar.h' l='98' u='c'/>
+<use f='include/wctype.h' l='45' u='c'/>
+<use f='include/wctype.h' l='203' u='c'/>

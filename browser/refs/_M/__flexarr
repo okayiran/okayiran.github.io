@@ -1,0 +1,2 @@
+<dec f='include/sys/cdefs.h' l='140'/>
+<doc f='include/sys/cdefs.h' l='139'>/* GCC 2.97 supports C99 flexible array members.  */</doc>

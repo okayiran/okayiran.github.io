@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<title>locale.h source code [include/bits/locale.h] - Woboq Code Browser</title>
+<link rel="stylesheet" href="../../../data/kdevelop.css" title="KDevelop"/>
+<link rel="alternate stylesheet" href="../../../data/qtcreator.css" title="QtCreator"/>
+<script type="text/javascript" src="../../../data/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="../../../data/jquery/jquery-ui.min.js"></script>
+<script>var file = 'include/bits/locale.h'; var root_path = '../..'; var data_path = '../../../data';</script>
+<script src='../../../data/codebrowser.js'></script>
+</head>
+<body><div id='header'><h1 id='breadcrumb'><span>Browse source code of </span><a href='..'>include</a>/<a href='./'>bits</a>/<a href='locale.h.html'>locale.h</a> online</h1></div>
+<hr/><div id='content'><table class="code">
+<tr><th id="1">1</th><td><i>/* Definition of locale category symbol values.</i></td></tr>
+<tr><th id="2">2</th><td><i>   Copyright (C) 2001 Free Software Foundation, Inc.</i></td></tr>
+<tr><th id="3">3</th><td><i>   This file is part of the GNU C Library.</i></td></tr>
+<tr><th id="4">4</th><td><i></i></td></tr>
+<tr><th id="5">5</th><td><i>   The GNU C Library is free software; you can redistribute it and/or</i></td></tr>
+<tr><th id="6">6</th><td><i>   modify it under the terms of the GNU Lesser General Public</i></td></tr>
+<tr><th id="7">7</th><td><i>   License as published by the Free Software Foundation; either</i></td></tr>
+<tr><th id="8">8</th><td><i>   version 2.1 of the License, or (at your option) any later version.</i></td></tr>
+<tr><th id="9">9</th><td><i></i></td></tr>
+<tr><th id="10">10</th><td><i>   The GNU C Library is distributed in the hope that it will be useful,</i></td></tr>
+<tr><th id="11">11</th><td><i>   but WITHOUT ANY WARRANTY; without even the implied warranty of</i></td></tr>
+<tr><th id="12">12</th><td><i>   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU</i></td></tr>
+<tr><th id="13">13</th><td><i>   Lesser General Public License for more details.</i></td></tr>
+<tr><th id="14">14</th><td><i></i></td></tr>
+<tr><th id="15">15</th><td><i>   You should have received a copy of the GNU Lesser General Public</i></td></tr>
+<tr><th id="16">16</th><td><i>   License along with the GNU C Library; if not, write to the Free</i></td></tr>
+<tr><th id="17">17</th><td><i>   Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA</i></td></tr>
+<tr><th id="18">18</th><td><i>   02111-1307 USA.  */</i></td></tr>
+<tr><th id="19">19</th><td></td></tr>
+<tr><th id="20">20</th><td><u>#<span data-ppcond="20">if</span> !defined <a class="macro" href="../locale.h.html#24" data-ref="_M/_LOCALE_H">_LOCALE_H</a> &amp;&amp; !defined <span class="macro" data-ref="_M/_LANGINFO_H">_LANGINFO_H</span></u></td></tr>
+<tr><th id="21">21</th><td><u># error "Never use &lt;bits/locale.h&gt; directly; include &lt;locale.h&gt; instead."</u></td></tr>
+<tr><th id="22">22</th><td><u>#<span data-ppcond="20">endif</span></u></td></tr>
+<tr><th id="23">23</th><td></td></tr>
+<tr><th id="24">24</th><td><u>#<span data-ppcond="24">ifndef</span> <span class="macro" data-ref="_M/_BITS_LOCALE_H">_BITS_LOCALE_H</span></u></td></tr>
+<tr><th id="25">25</th><td><u>#define <dfn class="macro" id="_M/_BITS_LOCALE_H" data-ref="_M/_BITS_LOCALE_H">_BITS_LOCALE_H</dfn>	1</u></td></tr>
+<tr><th id="26">26</th><td></td></tr>
+<tr><th id="27">27</th><td><b>enum</b></td></tr>
+<tr><th id="28">28</th><td>{</td></tr>
+<tr><th id="29">29</th><td>  <dfn class="enum" id="::__LC_CTYPE" title='::__LC_CTYPE' data-ref="::__LC_CTYPE">__LC_CTYPE</dfn> = <var>0</var>,</td></tr>
+<tr><th id="30">30</th><td>  <dfn class="enum" id="::__LC_NUMERIC" title='::__LC_NUMERIC' data-ref="::__LC_NUMERIC">__LC_NUMERIC</dfn> = <var>1</var>,</td></tr>
+<tr><th id="31">31</th><td>  <dfn class="enum" id="::__LC_TIME" title='::__LC_TIME' data-ref="::__LC_TIME">__LC_TIME</dfn> = <var>2</var>,</td></tr>
+<tr><th id="32">32</th><td>  <dfn class="enum" id="::__LC_COLLATE" title='::__LC_COLLATE' data-ref="::__LC_COLLATE">__LC_COLLATE</dfn> = <var>3</var>,</td></tr>
+<tr><th id="33">33</th><td>  <dfn class="enum" id="::__LC_MONETARY" title='::__LC_MONETARY' data-ref="::__LC_MONETARY">__LC_MONETARY</dfn> = <var>4</var>,</td></tr>
+<tr><th id="34">34</th><td>  <dfn class="enum" id="::__LC_MESSAGES" title='::__LC_MESSAGES' data-ref="::__LC_MESSAGES">__LC_MESSAGES</dfn> = <var>5</var>,</td></tr>
+<tr><th id="35">35</th><td>  <dfn class="enum" id="::__LC_ALL" title='::__LC_ALL' data-ref="::__LC_ALL">__LC_ALL</dfn> = <var>6</var>,</td></tr>
+<tr><th id="36">36</th><td>  <dfn class="enum" id="::__LC_PAPER" title='::__LC_PAPER' data-ref="::__LC_PAPER">__LC_PAPER</dfn> = <var>7</var>,</td></tr>
+<tr><th id="37">37</th><td>  <dfn class="enum" id="::__LC_NAME" title='::__LC_NAME' data-ref="::__LC_NAME">__LC_NAME</dfn> = <var>8</var>,</td></tr>
+<tr><th id="38">38</th><td>  <dfn class="enum" id="::__LC_ADDRESS" title='::__LC_ADDRESS' data-ref="::__LC_ADDRESS">__LC_ADDRESS</dfn> = <var>9</var>,</td></tr>
+<tr><th id="39">39</th><td>  <dfn class="enum" id="::__LC_TELEPHONE" title='::__LC_TELEPHONE' data-ref="::__LC_TELEPHONE">__LC_TELEPHONE</dfn> = <var>10</var>,</td></tr>
+<tr><th id="40">40</th><td>  <dfn class="enum" id="::__LC_MEASUREMENT" title='::__LC_MEASUREMENT' data-ref="::__LC_MEASUREMENT">__LC_MEASUREMENT</dfn> = <var>11</var>,</td></tr>
+<tr><th id="41">41</th><td>  <dfn class="enum" id="::__LC_IDENTIFICATION" title='::__LC_IDENTIFICATION' data-ref="::__LC_IDENTIFICATION">__LC_IDENTIFICATION</dfn> = <var>12</var></td></tr>
+<tr><th id="42">42</th><td>};</td></tr>
+<tr><th id="43">43</th><td></td></tr>
+<tr><th id="44">44</th><td><u>#<span data-ppcond="24">endif</span>	/* bits/locale.h */</u></td></tr>
+<tr><th id="45">45</th><td></td></tr>
+</table><hr/><p id='footer'>
+Generated while processing <a href='../../test_woboq/hello.cc.html'>test_woboq/hello.cc</a><br/>Generated on <em>2016-May-11</em> from project include<br />Powered by <a href='https://woboq.com'><img alt='Woboq' src='https://code.woboq.org/woboq-16.png' width='41' height='16' /></a> <a href='https://code.woboq.org'>Code Browser</a> 1.9
+<br/>Generator usage only permitted with license.</p>
+</div></body></html>

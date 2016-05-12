@@ -1,0 +1,4 @@
+<dec f='include/xlocale.h' l='31' type='struct locale_data *[13]'/>
+<offset>0</offset>
+<doc f='include/xlocale.h' l='30'>/* Note: LC_ALL is not a valid index into this array.  */</doc>
+<doc f='include/xlocale.h' l='31'>/* 13 = __LC_LAST. */</doc>

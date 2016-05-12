@@ -1,0 +1,4 @@
+<dec f='include/wchar.h' l='43'/>
+<dec f='include/bits/types.h' l='30'/>
+<dec f='include/time.h' l='37'/>
+<doc f='include/wchar.h' l='42'>/* Get size_t, wchar_t, wint_t and NULL from &lt;stddef.h&gt;.  */</doc>

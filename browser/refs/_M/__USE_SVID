@@ -1,0 +1,6 @@
+<dec f='include/features.h' l='262'/>
+<use f='include/stdio.h' l='48' u='a'/>
+<use f='include/ctype.h' l='138' u='a'/>
+<use f='include/time.h' l='79' u='a'/>
+<use f='include/time.h' l='289' u='a'/>
+<use f='include/time.h' l='294' u='a'/>

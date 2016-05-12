@@ -1,0 +1,2 @@
+<dec f='include/pthread.h' l='984' type='int pthread_condattr_getclock(const pthread_condattr_t *__restrict __attr, __clockid_t *__restrict __clock_id)'/>
+<doc f='include/pthread.h' l='983'>/* Get the clock selected for the conditon variable attribute ATTR.  */</doc>

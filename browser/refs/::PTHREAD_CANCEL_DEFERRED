@@ -1,0 +1,2 @@
+<dec f='include/pthread.h' l='199' type='0'/>
+<use f='include/pthread.h' l='200' u='r' c='__pthread_cleanup_class::__defer'/>

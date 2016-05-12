@@ -1,0 +1,5 @@
+<dec f='include/pthread.h' l='526' type='int'/>
+<use f='include/pthread.h' l='531' u='w' c='__pthread_cleanup_class::__pthread_cleanup_class'/>
+<use f='include/pthread.h' l='532' u='r' c='__pthread_cleanup_class::~__pthread_cleanup_class'/>
+<use f='include/pthread.h' l='533' u='w' c='__pthread_cleanup_class::__setdoit'/>
+<offset>128</offset>

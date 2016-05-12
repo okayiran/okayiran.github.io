@@ -1,0 +1,2 @@
+<dec f='include/sched.h' l='34'/>
+<doc f='include/sched.h' l='33'>/* Define the real names for the elements of `struct sched_param&apos;.  */</doc>

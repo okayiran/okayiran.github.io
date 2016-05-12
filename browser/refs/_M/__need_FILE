@@ -1,0 +1,4 @@
+<dec f='include/wchar.h' l='35'/>
+<use f='include/stdio.h' l='26' u='a'/>
+<use f='include/stdio.h' l='42' u='a'/>
+<use f='include/stdio.h' l='56' u='w'/>

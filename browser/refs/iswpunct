@@ -1,0 +1,4 @@
+<dec f='include/wctype.h' l='155' type='int iswpunct(wint_t __wc)'/>
+<doc f='include/wctype.h' l='152'>/* Test for any printing wide character that is one of a
+   locale-specific et of wide characters for which neither `iswspace&apos;
+   nor `iswalnum&apos; is true.  */</doc>

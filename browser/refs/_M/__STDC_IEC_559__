@@ -1,0 +1,2 @@
+<dec f='include/features.h' l='295'/>
+<doc f='include/features.h' l='294'>/* We do support the IEC 559 math functionality, real and complex.  */</doc>

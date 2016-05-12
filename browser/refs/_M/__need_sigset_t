@@ -1,0 +1,4 @@
+<dec f='include/pthread.h' l='27'/>
+<use f='include/signal.h' l='25' u='a'/>
+<use f='include/signal.h' l='47' u='a'/>
+<use f='include/signal.h' l='52' u='w'/>
