@@ -1,2 +1,0 @@
-<dec f='include/wchar.h' l='265' type='int wmemcmp(const wchar_t *__restrict __s1, const wchar_t *__restrict __s2, size_t __n)'/>
-<doc f='include/wchar.h' l='264'>/* Compare N wide characters of S1 and S2.  */</doc>

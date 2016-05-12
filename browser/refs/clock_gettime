@@ -1,1 +1,0 @@
-<dec f='include/time.h' l='335' type='int clock_gettime(clockid_t __clock_id, struct timespec * __tp)'/>

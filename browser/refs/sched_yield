@@ -1,2 +1,0 @@
-<dec f='include/sched.h' l='54' type='int sched_yield()'/>
-<doc f='include/sched.h' l='53'>/* Yield the processor.  */</doc>

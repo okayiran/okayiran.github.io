@@ -1,4 +1,0 @@
-<dec f='include/pthread.h' l='527' type='int'/>
-<use f='include/pthread.h' l='535' u='a' c='__pthread_cleanup_class::__defer'/>
-<use f='include/pthread.h' l='536' u='r' c='__pthread_cleanup_class::__restore'/>
-<offset>160</offset>

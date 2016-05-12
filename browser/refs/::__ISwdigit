@@ -1,9 +1,0 @@
-<dec f='include/wctype.h' l='90' type='3'/>
-<use f='include/wctype.h' l='103' u='r'/>
-<use f='include/wctype.h' l='103' u='r'/>
-<use f='include/wctype.h' l='103' u='r'/>
-<use f='include/wctype.h' l='103' u='r'/>
-<use f='include/wctype.h' l='103' u='r'/>
-<use f='include/wctype.h' l='103' u='r'/>
-<use f='include/wctype.h' l='103' u='r'/>
-<doc f='include/wctype.h' l='90'>/* Numeric.  */</doc>

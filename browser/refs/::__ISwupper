@@ -1,9 +1,0 @@
-<dec f='include/wctype.h' l='87' type='0'/>
-<use f='include/wctype.h' l='100' u='r'/>
-<use f='include/wctype.h' l='100' u='r'/>
-<use f='include/wctype.h' l='100' u='r'/>
-<use f='include/wctype.h' l='100' u='r'/>
-<use f='include/wctype.h' l='100' u='r'/>
-<use f='include/wctype.h' l='100' u='r'/>
-<use f='include/wctype.h' l='100' u='r'/>
-<doc f='include/wctype.h' l='87'>/* UPPERCASE.  */</doc>

@@ -1,1 +1,0 @@
-<dec f='include/time.h' l='327' type='int nanosleep(const struct timespec * __requested_time, struct timespec * __remaining)'/>

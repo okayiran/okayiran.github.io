@@ -1,1 +1,0 @@
-<dec f='include/time.h' l='265' type='char * asctime_r(const struct tm *__restrict __tp, char *__restrict __buf)'/>

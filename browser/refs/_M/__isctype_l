@@ -1,3 +1,0 @@
-<dec f='include/ctype.h' l='237'/>
-<doc f='include/ctype.h' l='235'>/* These definitions are similar to the ones above but all functions
-   take as an argument a handle for the locale which shall be used.  */</doc>

@@ -1,5 +1,0 @@
-<dec f='include/wchar.h' l='33'/>
-<use f='include/stdio.h' l='26' u='a'/>
-<use f='include/stdio.h' l='59' u='a'/>
-<use f='include/stdio.h' l='66' u='w'/>
-<doc f='include/wchar.h' l='32'>/* Get FILE definition.  */</doc>

@@ -1,2 +1,0 @@
-<dec f='include/bits/typesizes.h' l='63'/>
-<doc f='include/bits/typesizes.h' l='62'>/* Number of descriptors that can fit in an `fd_set&apos;.  */</doc>

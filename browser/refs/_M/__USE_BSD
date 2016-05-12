@@ -1,4 +1,0 @@
-<dec f='include/features.h' l='258'/>
-<use f='include/stdio.h' l='49' u='a'/>
-<use f='include/endian.h' l='45' u='a'/>
-<use f='include/time.h' l='146' u='a'/>

@@ -1,2 +1,0 @@
-<dec f='include/pthread.h' l='934' type='int pthread_cond_signal(pthread_cond_t * __cond)'/>
-<doc f='include/pthread.h' l='933'>/* Wake up one thread waiting for condition variable COND.  */</doc>

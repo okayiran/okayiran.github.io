@@ -1,1 +1,0 @@
-<dec f='include/time.h' l='218' type='size_t strftime_l(char *__restrict __s, size_t __maxsize, const char *__restrict __format, const struct tm *__restrict __tp, __locale_t __loc)'/>

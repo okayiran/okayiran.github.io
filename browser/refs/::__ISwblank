@@ -1,9 +1,0 @@
-<dec f='include/wctype.h' l='95' type='8'/>
-<use f='include/wctype.h' l='108' u='r'/>
-<use f='include/wctype.h' l='108' u='r'/>
-<use f='include/wctype.h' l='108' u='r'/>
-<use f='include/wctype.h' l='108' u='r'/>
-<use f='include/wctype.h' l='108' u='r'/>
-<use f='include/wctype.h' l='108' u='r'/>
-<use f='include/wctype.h' l='108' u='r'/>
-<doc f='include/wctype.h' l='95'>/* Blank (usually SPC and TAB).  */</doc>

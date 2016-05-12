@@ -1,3 +1,0 @@
-<dec f='include/wchar.h' l='393' type='double wcstod(const wchar_t *__restrict __nptr, wchar_t **__restrict __endptr)'/>
-<doc f='include/wchar.h' l='391'>/* Convert initial portion of the wide string NPTR to `double&apos;
-   representation.  */</doc>

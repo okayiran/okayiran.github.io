@@ -1,2 +1,0 @@
-<dec f='include/pthread.h' l='269' type='int pthread_equal(pthread_t __thread1, pthread_t __thread2)'/>
-<doc f='include/pthread.h' l='268'>/* Compare two thread identifiers.  */</doc>

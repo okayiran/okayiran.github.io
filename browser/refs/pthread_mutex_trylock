@@ -1,2 +1,0 @@
-<dec f='include/pthread.h' l='727' type='int pthread_mutex_trylock(pthread_mutex_t * __mutex)'/>
-<doc f='include/pthread.h' l='726'>/* Try locking a mutex.  */</doc>

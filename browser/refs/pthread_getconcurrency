@@ -1,2 +1,0 @@
-<dec f='include/pthread.h' l='429' type='int pthread_getconcurrency()'/>
-<doc f='include/pthread.h' l='428'>/* Determine level of concurrency.  */</doc>
