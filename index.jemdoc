@@ -25,6 +25,13 @@ Specifically, I work in GPU architectures, and CPU-GPU heterogeneous architectur
 I am also interested in NoCs. 
 
 == Publications
+- Jia Zhan, *Onur Kayiran*, Gabriel H. Loh, Chita R. Das, Yuan Xie \n 
+#[docs/pdf/CPUGPU-MICRO2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/], \n
+OSCAR: Orchestrating STT-RAM Cache Traffic in Heterogeneous Architectures, \n
+Proceedings of the [http://www.microarch.org/micro49/ 49th IEEE/ACM International Symposium on Microarchitecture] 
+*\<span style=\"color: FireBrick \"\>(MICRO)\<\/span\>*, Taipei, Taiwan, October 2016 \n 
+(Acceptance rate: 61/288 ≈ 21.2%) \n
+
 - Reena Panda, Yasuko Eckert, Nuwan Jayasena, *Onur Kayiran*, Michael Boyer, Lizy K. John\n 
 [docs/pdf/PIM-Prefetch-ICS2016.pdf /Prefetching Techniques for Near-memory Throughput-processors/], \n
 Proceedings of the [http://ics16.bilkent.edu.tr/index.htm 30th ACM International Conference on Supercomputing]
@@ -66,7 +73,7 @@ Proceedings of the [http://www.memsys.io/ 1st International Symposium on Memory 
 
 - *Onur Kayiran*, Nachiappan CN, Adwait Jog, Rachata Ausavarungnirun, Mahmut T. Kandemir, Gabriel H. Loh, Onur Mutlu, Chita R. Das, \n 
 [docs/pdf/CPUGPU-MICRO2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/], \n
-Proceedings of the [http://www.microarch.org/micro47/ 47th International Symposium on Micro Architecture] 
+Proceedings of the [http://www.microarch.org/micro47/ 47th International Symposium on Microarchitecture] 
 *\<span style=\"color: FireBrick \"\>(MICRO)\<\/span\>*, Cambridge, UK, December 2014 \n 
 (Acceptance rate: 53/273 ≈ 19.4%) \n
 [docs/pdf/CPUGPU-MICRO2014-Summary.pdf \[Summary\] ]
