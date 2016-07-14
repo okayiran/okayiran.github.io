@@ -30,14 +30,14 @@ interconnection networks.
 Fine-grain Datapath Management for Scale-up GPUs, \n
 To appear in the Proceedings of the [http://pactconf.org/ 25th International Conference on Parallel Architectures and Compilation Techniques] 
 *\<span style=\"color: FireBrick \"\>(PACT)\<\/span\>*, Haifa, Israel, September 2016 \n
-(Acceptance rate: /≈ .%) \n
+(Acceptance rate: 31/139 ≈ 22.3%) \n
 
 - Ashutosh Pattnaik, Xulong Tang, Adwait Jog, *Onur Kayiran*, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Chita R. Das \n
 #[docs/pdf/PIM-PACT2016.pdf /Kernel Scheduling Techniques for PIM-Assisted GPU Architectures/], \n
 Kernel Scheduling Techniques for PIM-Assisted GPU Architectures, \n
 To appear in the Proceedings of the [http://pactconf.org/ 25th International Conference on Parallel Architectures and Compilation Techniques] 
 *\<span style=\"color: FireBrick \"\>(PACT)\<\/span\>*, Haifa, Israel, September 2016 \n
-(Acceptance rate: /≈ .%) \n
+(Acceptance rate: 31/139 ≈ 22.3%) \n
 
 - Jia Zhan, *Onur Kayiran*, Gabriel H. Loh, Chita R. Das, Yuan Xie \n
 #[docs/pdf/OSCAR-MICRO2016.pdf /OSCAR: Orchestrating STT-RAM Cache Traffic in Heterogeneous Architectures/], \n
