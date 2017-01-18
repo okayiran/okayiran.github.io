@@ -26,13 +26,15 @@ interconnection networks.
 
 == Publications
 - Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, *Onur Kayiran*, Adwait Jog, Sreepathi Pai, Mohamed Ibrahim, Mahmut T. Kandemir, Chita R. Das \n
-[docs/pdf/DP-HPCA2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/], \n
+#[docs/pdf/DP-HPCA2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/], \n
+/Controlled Kernel Launch for Dynamic Parallelism in GPUs/, \n
 To appear in the Proceedings of the [http://hpca2017.org/ The 23rd IEEE Symposium on High Performance Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(HPCA)\<\/span\>*, Austin, TX, February 2017 \n
 (Acceptance rate: 50/224 ~= %22.3) \n
 
 - Thiruvengadam Vijayaraghavan, Yasuko Eckert, Gabriel H. Loh, Michael Schulte, Mike Ignatowski, Indrani Paul, Brad Beckmann, Steven Reinhardt, William Brantley, Joseph Greathouse, *Onur Kayiran*, Matthew Poremba, Wei Huang, Arun Karunanithi, Greg Sadowski, Vilas Sridharan, Steven Raasch, Mitesh Meswani \n
-[docs/pdf/ENA-HPCA2017.pdf /Design and Analysis of an APU for Exascale Computing/], \n
+#[docs/pdf/ENA-HPCA2017.pdf /Design and Analysis of an APU for Exascale Computing/], \n
+/Design and Analysis of an APU for Exascale Computing/, \n
 To appear in the Proceedings of the [http://hpca2017.org/ The 23rd IEEE Symposium on High Performance Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(HPCA) - Industry Track\<\/span\>*, Austin, TX, February 2017 \n
 
@@ -143,8 +145,8 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 - Postdoc researcher at [http://www.amd.com/ AMD Research], July 2015 - present \n
 - Internship at [http://www.amd.com/ AMD Research], January 2015 - June 2015 \n
 - Internship at [http://www.sisa.samsung.com/ Samsung Information Systems America (SISA) R&D Center], June 2013 - August 2013 \n
-- Internship at [http://www.aselsan.com.tr/ ASELSAN A.Ş.], June 2006 - July 2007 \n
-- Internship at [http://www.tumer.com/ Tümer Mühendislik], June 2005 - July 2006 \n
+#- Internship at [http://www.aselsan.com.tr/ ASELSAN A.Ş.], June 2006 - July 2007 \n
+#- Internship at [http://www.tumer.com/ Tümer Mühendislik], June 2005 - July 2006 \n
 
 == Educational Background
 - PhD in [http://www.cse.psu.edu/ Computer Science and Engineering], [http://www.psu.edu/ The Pennsylvania State University], August 2010 - August 2015
@@ -153,6 +155,8 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 - High School: [http://www.aaal.meb.k12.tr/ Ankara Atatürk Anadolu Lisesi]
 
 == Service
+- Program Committee Member for: \n
+  -- NAS 2017
 - Reviewer for: \n
   -- TACO
   -- CAL
@@ -175,7 +179,7 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 - [http://www.sigarch.org/ ACM SIGARCH] \n
 
 == Other
-- Turkish citizen
+#- Turkish citizen
 - Enjoys tennis, snooker, playing drums and guitar, history and cooking
 
 == Links
