@@ -21,8 +21,8 @@ in [http://www.cse.psu.edu/hpcl High Performance Computing Lab].\n
 
 == Research Interests
 Broadly, my research interests are in the area of computer architecture.
-Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures, and
-interconnection networks.
+Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
+interconnection networks, and die-stacking.
 
 == Publications
 - Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, *Onur Kayiran*, Adwait Jog, Sreepathi Pai, Mohamed Ibrahim, Mahmut T. Kandemir, Chita R. Das \n
