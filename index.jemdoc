@@ -43,7 +43,6 @@ In the Proceedings of [http://hpca2017.org/ The 23rd IEEE Symposium on High Perf
 
 - Thiruvengadam Vijayaraghavan, Yasuko Eckert, Gabriel H. Loh, Michael Schulte, Mike Ignatowski, Indrani Paul, Brad Beckmann, Steven Reinhardt, William Brantley, Joseph Greathouse, *Onur Kayiran*, Matthew Poremba, Wei Huang, Arun Karunanithi, Greg Sadowski, Vilas Sridharan, Steven Raasch, Mitesh Meswani \n
 [http://ieeexplore.ieee.org/document/7920816/ /Design and Analysis of an APU for Exascale Computing/], \n
-/Design and Analysis of an APU for Exascale Computing/, \n
 In the Proceedings of [http://hpca2017.org/ The 23rd IEEE Symposium on High Performance Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(HPCA) - Industry Track\<\/span\>*, Austin, TX, February 2017 \n
 
@@ -56,7 +55,9 @@ In the Proceedings of [http://pactconf.org/ The 25th International Conference on
 (Acceptance rate: 31/139 ≈ 22.3%) \n
 
 - Ashutosh Pattnaik, Xulong Tang, Adwait Jog, *Onur Kayiran*, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Chita R. Das \n
-[docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/], \n
+[{{
+<div class="acmdlitem" id="item2967940"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N33404" title="Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities">Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities</a><div style="margin-left:25px"></div>
+}}]
 In the Proceedings of [http://pactconf.org/ The 25th International Conference on Parallel Architectures and Compilation Techniques]
 *\<span style=\"color: FireBrick \"\>(PACT)\<\/span\>*, Haifa, Israel, September 2016 \n
 (Acceptance rate: 31/139 ≈ 22.3%) \n
@@ -68,14 +69,18 @@ In the Proceedings of [http://www.microarch.org/micro49/ The 49th IEEE\/ACM Inte
 (Acceptance rate: 61/288 ≈ 21.2%) \n
 
 - Reena Panda, Yasuko Eckert, Nuwan Jayasena, *Onur Kayiran*, Michael Boyer, Lizy K. John\n
-[docs/pdf/PIM-Prefetch-ICS2016.pdf /Prefetching Techniques for Near-memory Throughput-processors/], \n
+[{{
+<div class="acmdlitem" id="item2926282"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N33416" title="Prefetching Techniques for Near-memory Throughput Processors">Prefetching Techniques for Near-memory Throughput Processors</a><div style="margin-left:25px"></div>
+}}]
 Proceedings of [http://ics16.bilkent.edu.tr/index.htm The 30th ACM International Conference on Supercomputing]
 *\<span style=\"color: FireBrick \"\>(ICS)\<\/span\>*, Istanbul, Turkey, June 2016 \n
 (Acceptance rate: 43/178 ≈ 24.2%) \n
 # [docs/pptx/PIM-Prefetch-ICS2016.pptx \[Slides\] ]
 
 - Adwait Jog, *Onur Kayiran*, Ashutosh Pattnaik, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das \n
-[docs/pdf/CLAMS-SIGMETRICS2016.pdf /Exploiting Core-Criticality for Enhanced GPU Performance/], \n
+[{{
+<div class="acmdlitem" id="item2901468"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N33415" title="Exploiting Core Criticality for Enhanced GPU Performance">Exploiting Core Criticality for Enhanced GPU Performance</a><div style="margin-left:25px"></div>
+}}]
 Proceedings of [http://www.sigmetrics.org/sigmetrics2016/ The 42nd ACM SIGMETRICS]
 *\<span style=\"color: FireBrick \"\>(SIGMETRICS)\<\/span\>*, Antibes Juan-les-Pins, France, June 2016 \n
 (Acceptance rate: 28/208 ≈ 13.4%) \n
@@ -96,7 +101,9 @@ Proceedings of [https://sites.google.com/a/lbl.gov/pact2015/ The 24th Internatio
 [docs/pptx/MeDiC-PACT2015.pptx \[Slides\] ]
 
 - Adwait Jog, *Onur Kayiran*, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
-[docs/pdf/Anatomy-MEMSYS2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
+[{{
+<div class="acmdlitem" id="item2818979"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N33417" title="Anatomy of GPU Memory System for Multi-Application Execution">Anatomy of GPU Memory System for Multi-Application Execution</a><div style="margin-left:25px"></div>
+}}]
 Proceedings of [http://www.memsys.io/ The 1st International Symposium on Memory Systems]
 *\<span style=\"color: FireBrick \"\>(MEMSYS)\<\/span\>*, Alexandria, VA, October 2015 \n
 [docs/pptx/MEMSYS2015-Slides.pptx \[Slides\] ]
@@ -120,14 +127,18 @@ Proceedings of [http://conferences.inf.ed.ac.uk/pact2013/ The 22nd International
 [docs/pptx/NMNL-PACT-2013-Slides.pptx \[Slides\] ]
 
 - Adwait Jog, *Onur Kayiran*, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravi Iyer, Chita R. Das, \n
-[docs/pdf/Orchestrated_Scheduling_and_Prefetching_for_GPGPUs_ISCA2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/], \n
+[{{
+<div class="acmdlitem" id="item2485951"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N71704" title="Orchestrated scheduling and prefetching for GPGPUs">Orchestrated scheduling and prefetching for GPGPUs</a><div style="margin-left:25px"></div>
+}}]
 Proceedings of [http://isca2013.eew.technion.ac.il/ The 40th International Symposium on Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(ISCA)\<\/span\>*, Tel Aviv, Israel, June 2013 \n
 (Acceptance rate: 56/288 ≈ 19.4%) \n
 [docs/pptx/OSP-ISCA-2013-Slides.pptx \[Slides\] ]
 
 - Adwait Jog, *Onur Kayiran*, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das, \n
-[docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU Performance/], \n
+[{{
+<div class="acmdlitem" id="item2451158"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N71715" title="OWL: cooperative thread array aware scheduling techniques for improving GPGPU performance">OWL: cooperative thread array aware scheduling techniques for improving GPGPU performance</a><div style="margin-left:25px"></div>
+}}]
 Proceedings of [http://asplos13.rice.edu/ The 18th International Conference on Architectural Support for Programming Languages and Operating Systems]
 *\<span style=\"color: FireBrick \"\>(ASPLOS)\<\/span\>*, Houston, TX, March 2013 \n
 (Acceptance rate: 44/191 ≈ 23.0%) \n
