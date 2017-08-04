@@ -26,9 +26,12 @@ interconnection networks, and die-stacking.
 
 == Publications
 - Matthew Poremba, Itir Akgun, Jieming Yin, *Onur Kayiran*, Yuan Xie, Gabriel H. Loh \n
-#[docs/pdf/MN-ISCA2017.pdf /There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes/], \n
-/There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes/, \n
-To appear in the Proceedings of [http://isca17.ece.utoronto.ca/ The 44th International Symposium on Computer Architecture]
+[{{
+<div class="acmdlitem" id="item3080251"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N33402" title="There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes">There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes</a><div style="margin-left:25px"></div>
+}}
+]
+#/There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes/, \n
+In the Proceedings of [http://isca17.ece.utoronto.ca/ The 44th International Symposium on Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(ISCA)\<\/span\>*, Toronto, CA, June 2017 \n
 (Acceptance rate: 54/322 ~= %16.8) \n
 
@@ -39,13 +42,15 @@ In the Proceedings of [http://hpca2017.org/ The 23rd IEEE Symposium on High Perf
 (Acceptance rate: 50/224 ~= %22.3) \n
 
 - Thiruvengadam Vijayaraghavan, Yasuko Eckert, Gabriel H. Loh, Michael Schulte, Mike Ignatowski, Indrani Paul, Brad Beckmann, Steven Reinhardt, William Brantley, Joseph Greathouse, *Onur Kayiran*, Matthew Poremba, Wei Huang, Arun Karunanithi, Greg Sadowski, Vilas Sridharan, Steven Raasch, Mitesh Meswani \n
-#[docs/pdf/ENA-HPCA2017.pdf /Design and Analysis of an APU for Exascale Computing/], \n
+[http://ieeexplore.ieee.org/document/7920816/ /Design and Analysis of an APU for Exascale Computing/], \n
 /Design and Analysis of an APU for Exascale Computing/, \n
 In the Proceedings of [http://hpca2017.org/ The 23rd IEEE Symposium on High Performance Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(HPCA) - Industry Track\<\/span\>*, Austin, TX, February 2017 \n
 
 - *Onur Kayiran*, Adwait Jog, Ashutosh Pattnaik, Rachata Ausavarungnirun, Xulong Tang, Mahmut T. Kandemir, Gabriel H. Loh, Onur Mutlu, Chita R. Das \n
-[docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/], \n
+[{{
+<div class="acmdlitem" id="item2967941"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N27287" title="&microC-States: Fine-grained GPU Datapath Power Management">&microC-States: Fine-grained GPU Datapath Power Management</a><div style="margin-left:25px"></div>
+}}]
 In the Proceedings of [http://pactconf.org/ The 25th International Conference on Parallel Architectures and Compilation Techniques]
 *\<span style=\"color: FireBrick \"\>(PACT)\<\/span\>*, Haifa, Israel, September 2016 \n
 (Acceptance rate: 31/139 ≈ 22.3%) \n
