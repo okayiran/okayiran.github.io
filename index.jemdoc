@@ -25,12 +25,16 @@ Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
 interconnection networks, and die-stacking.
 
 == Publications
+- Haonan Wang, Fan Luo, Mohamed Ibrahim, *Onur Kayiran*, Adwait Jog \n
+To appear in the Proceedings of [http://hpca2018.ece.ucsb.edu/ The 24th IEEE International Symposium on High-Performance Computer Architecture]
+*\<span style=\"color: FireBrick \"\>(HPCA)\<\/span\>*, Vienna, Austria, February 2018 \n
+(Acceptance rate: 54/260 ~= %20.8) \n
+
 - Matthew Poremba, Itir Akgun, Jieming Yin, *Onur Kayiran*, Yuan Xie, Gabriel H. Loh \n
 [{{
 <div class="acmdlitem" id="item3080251"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N33402" title="There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes">There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes</a><div style="margin-left:25px"></div>
 }}
 ]
-#/There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes/, \n
 In the Proceedings of [http://isca17.ece.utoronto.ca/ The 44th International Symposium on Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(ISCA)\<\/span\>*, Toronto, CA, June 2017 \n
 (Acceptance rate: 54/322 ~= %16.8) \n
