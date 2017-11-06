@@ -32,10 +32,10 @@ To appear in the Proceedings of [http://hpca2018.ece.ucsb.edu/ The 24th IEEE Int
 *\<span style=\"color: FireBrick \"\>(HPCA)\<\/span\>*, Vienna, Austria, February 2018 \n
 (Acceptance rate: 54/260 ~= %20.8) \n
 
-#- Anthony Gutierrez, Bradford Beckmann, Alexandru Dutu, Joseph Gross, John Kalamatianos, *Onur Kayiran*, Michael LeBeane, Matthew Poremba, Brandon Potter, Sooraj Puthoor, Mark Wyse, Jieming Yin, Akshay Jain, Tim Rogers, Xianwei Zhang, Matt Sinclair \n
-#/Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level/, \n
-#To appear in the Proceedings of [http://hpca2018.ece.ucsb.edu/ The 24th IEEE International Symposium on High-Performance Computer Architecture]
-#*\<span style=\"color: FireBrick \"\>(HPCA) - Industrial Track\<\/span\>*, Vienna, Austria, February 2018 \n
+- Anthony Gutierrez, Bradford Beckmann, Alexandru Dutu, Joseph Gross, John Kalamatianos, *Onur Kayiran*, Michael LeBeane, Matthew Poremba, Brandon Potter, Sooraj Puthoor, Mark Wyse, Jieming Yin, Akshay Jain, Tim Rogers, Xianwei Zhang, Matt Sinclair \n
+/Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level/, \n
+To appear in the Proceedings of [http://hpca2018.ece.ucsb.edu/ The 24th IEEE International Symposium on High-Performance Computer Architecture]
+*\<span style=\"color: FireBrick \"\>(HPCA) - Industrial Track\<\/span\>*, Vienna, Austria, February 2018 \n
 
 - Matthew Poremba, Itir Akgun, Jieming Yin, *Onur Kayiran*, Yuan Xie, Gabriel H. Loh \n
 [{{
