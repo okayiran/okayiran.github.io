@@ -26,21 +26,19 @@ interconnection networks, and die-stacking.
 
 == Publications
 - Jieming Yin, Zhifeng Lin, *Onur Kayiran*, Matthew Poremba, Muhammad Shoaib Bin Altaf, Natalie Enright Jerger, Gabriel H. Loh \n
-/Modular Routing Design for Chiplet-based Systems/, \n
-# [docs/pdf/Routing-ISCA2018.pdf /Modular Routing Design for Chiplet-based Systems/], \n
-To appear in the Proceedings of [http://iscaconf.org/isca2018/ The 45th International Symposium on Computer Architecture]
+[docs/pdf/Routing-ISCA2018.pdf /Modular Routing Design for Chiplet-based Systems/], \n
+In the Proceedings of [http://iscaconf.org/isca2018/ The 45th International Symposium on Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(ISCA)\<\/span\>*, Los Angeles, CA, June 2018 \n
 (Acceptance rate: 64/373 ~= %17.2) \n
 
 - Haonan Wang, Fan Luo, Mohamed Ibrahim, *Onur Kayiran*, Adwait Jog \n
-/Efﬁcient and Fair Multi-programming in GPUs via Pattern-based Effective Bandwidth Management/, \n
-# [docs/pdf/EB-HPCA2018.pdf /Efﬁcient and Fair Multi-programming in GPUs via Pattern-based Effective Bandwidth Management/], \n
+[docs/pdf/EB-HPCA2018.pdf /Efﬁcient and Fair Multi-programming in GPUs via Pattern-based Effective Bandwidth Management/], \n
 In the Proceedings of [http://hpca2018.ece.ucsb.edu/ The 24th IEEE International Symposium on High-Performance Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(HPCA)\<\/span\>*, Vienna, Austria, February 2018 \n
 (Acceptance rate: 54/260 ~= %20.8) \n
 
 - Anthony Gutierrez, Bradford Beckmann, Alexandru Dutu, Joseph Gross, John Kalamatianos, *Onur Kayiran*, Michael LeBeane, Matthew Poremba, Brandon Potter, Sooraj Puthoor, Mark Wyse, Jieming Yin, Akshay Jain, Tim Rogers, Xianwei Zhang, Matt Sinclair \n
-/Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level/, \n
+[https://ieeexplore.ieee.org/document/8327041/ /Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level/], \n
 In the Proceedings of [http://hpca2018.ece.ucsb.edu/ The 24th IEEE International Symposium on High-Performance Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(HPCA) - Industrial Track\<\/span\>*, Vienna, Austria, February 2018 \n
 
@@ -182,6 +180,7 @@ Proceedings of [http://asplos13.rice.edu/ The 18th International Conference on A
 #- Internship at [http://www.tumer.com/ Tümer Mühendislik], June 2005 - July 2006 \n
 
 == Press Coverage and External Articles
+- [https://spectrum.ieee.org/tech-talk/semiconductors/design/amd-tackles-coming-chiplet-revolution-with-new-chip-network-scheme/ AMD Tackles Coming "Chiplet" Revolution With New Chip Network Scheme], June 22, 2018
 - [https://www.hpcwire.com/2017/03/07/amd-expands-exascale-vision-ieee-hpc-symposium/ AMD Expands Exascale Vision at IEEE HPC Symposium], March 7, 2017
 - [https://www.nextplatform.com/2017/02/28/amd-researchers-eye-apus-exascale/ AMD Researchers Eye APUs For Exascale], February 28, 2017 
 - [https://www.overclock3d.net/news/cpu_mainboard/amd_reveals_a_exascale_mega_apu_in_a_new_academic_paper/1 AMD reveals a Exascale MEGA APU in a new academic paper], February 21, 2017
