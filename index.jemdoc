@@ -25,6 +25,13 @@ Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
 interconnection networks, and die-stacking.
 
 == Publications
+- Hongyuan Liu, Mohamed Ibrahim, *Onur Kayiran*, Sreepathi Pai, Adwait Jog \n
+#[docs/pdf/AP-MICRO2018.pdf /Architectural Support for Efficient Large-Scale Automata Processing/], \n
+/Architectural Support for Efficient Large-Scale Automata Processing/, \n
+To appear in the proceedings of [https://www.microarch.org/micro51/ The 51st Annual IEEE\/ACM International Symposium on Microarchitecture]
+*\<span style=\"color: FireBrick \"\>(MICRO)\<\/span\>*, Fukuoka, Japan, October 2018 \n
+(Acceptance rate: 74/348 ~= %21.3) \n
+
 - Jieming Yin, Zhifeng Lin, *Onur Kayiran*, Matthew Poremba, Muhammad Shoaib Bin Altaf, Natalie Enright Jerger, Gabriel H. Loh \n
 [docs/pdf/Routing-ISCA2018.pdf /Modular Routing Design for Chiplet-based Systems/], \n
 In the Proceedings of [http://iscaconf.org/isca2018/ The 45th International Symposium on Computer Architecture]
@@ -212,6 +219,7 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 
 == Service
 - Program Committee Member for: \n
+  -- HPCA Industrial Track 2019
   -- NAS 2017
   -- Min-Move 2017
 - External Review Committee Member for: \n
