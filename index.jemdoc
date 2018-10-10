@@ -25,12 +25,26 @@ Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
 interconnection networks, and die-stacking.
 
 == Publications
+- Xulong Tang, Ashutosh Pattnaik, *Onur Kayiran*, Adwait Jog, Mahmut T. Kandemir, Chita R. Das \n
+#[docs/pdf/DP-SIGMETRICS2019 /Quantifying Data Locality in Dynamic Parallelism in GPUs/], \n
+/Quantifying Data Locality in Dynamic Parallelism in GPUs/, \n
+To appear in the Proceedings of [http://www.sigmetrics.org/sigmetrics2019/ The ACM SIGMETRICS 2019]
+*\<span style=\"color: FireBrick \"\>(SIGMETRICS)\<\/span\>*, Phoenix, AZ, June 2019 \n
+#(Acceptance rate: 28/208 ≈ 13.4%) \n
+
 - Hongyuan Liu, Mohamed Ibrahim, *Onur Kayiran*, Sreepathi Pai, Adwait Jog \n
-#[docs/pdf/AP-MICRO2018.pdf /Architectural Support for Efficient Large-Scale Automata Processing/], \n
-/Architectural Support for Efficient Large-Scale Automata Processing/, \n
+[docs/pdf/AP-MICRO2018.pdf /Architectural Support for Efficient Large-Scale Automata Processing/], \n
 To appear in the proceedings of [https://www.microarch.org/micro51/ The 51st Annual IEEE\/ACM International Symposium on Microarchitecture]
 *\<span style=\"color: FireBrick \"\>(MICRO)\<\/span\>*, Fukuoka, Japan, October 2018 \n
 (Acceptance rate: 74/348 ~= %21.3) \n
+
+- Hyojong Kim, Ramyad Hadidi, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, *Onur Kayiran*, Gabriel H. Loh \n
+[{{
+<div class="acmdlitem" id="item3232521"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="https://dl.acm.org/authorize?N669879" title="CODA: Enabling Co-location of Computation and Data for Multiple GPU Systems">CODA: Enabling Co-location of Computation and Data for Multiple GPU Systems</a><div style="margin-left:25px"></div>
+}}
+]
+In the ACM Transactions on Architecture and Code Optimization,
+*\<span style=\"color: FireBrick \"\>(TACO)\<\/span\>*, October 2018 \n
 
 - Jieming Yin, Zhifeng Lin, *Onur Kayiran*, Matthew Poremba, Muhammad Shoaib Bin Altaf, Natalie Enright Jerger, Gabriel H. Loh \n
 [docs/pdf/Routing-ISCA2018.pdf /Modular Routing Design for Chiplet-based Systems/], \n
