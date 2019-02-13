@@ -26,15 +26,18 @@ interconnection networks, and die-stacking.
 
 == Publications
 - Xulong Tang, Ashutosh Pattnaik, *Onur Kayiran*, Adwait Jog, Mahmut T. Kandemir, Chita R. Das \n
-#[docs/pdf/DP-SIGMETRICS2019 /Quantifying Data Locality in Dynamic Parallelism in GPUs/], \n
-/Quantifying Data Locality in Dynamic Parallelism in GPUs/, \n
-To appear in the Proceedings of [http://www.sigmetrics.org/sigmetrics2019/ The ACM SIGMETRICS 2019]
+[{{
+<div class="acmdlitem" id="item3287318"><img src="//dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="https://dl.acm.org/authorize?N676241" title="Quantifying Data Locality in Dynamic Parallelism in GPUs">Quantifying Data Locality in Dynamic Parallelism in GPUs</a><div style="margin-left:25px"></div>
+}}
+] 
+In the Proceedings of the [https://pomacs.acm.org/ ACM on Measurement and Analysis of Computing Systems] *\<span style=\"color: FireBrick \"\>(POMACS)\<\/span\>* and \n
+[http://www.sigmetrics.org/sigmetrics2019/ The ACM SIGMETRICS 2019]
 *\<span style=\"color: FireBrick \"\>(SIGMETRICS)\<\/span\>*, Phoenix, AZ, June 2019 \n
-#(Acceptance rate: 28/208 ≈ 13.4%) \n
+(Acceptance rate: 28/208 ≈ 13.4%) \n
 
 - Hongyuan Liu, Mohamed Ibrahim, *Onur Kayiran*, Sreepathi Pai, Adwait Jog \n
 [docs/pdf/AP-MICRO2018.pdf /Architectural Support for Efficient Large-Scale Automata Processing/], \n
-To appear in the proceedings of [https://www.microarch.org/micro51/ The 51st Annual IEEE\/ACM International Symposium on Microarchitecture]
+In the Proceedings of [https://www.microarch.org/micro51/ The 51st Annual IEEE\/ACM International Symposium on Microarchitecture]
 *\<span style=\"color: FireBrick \"\>(MICRO)\<\/span\>*, Fukuoka, Japan, October 2018 \n
 (Acceptance rate: 74/348 ~= %21.3) \n
 
@@ -232,7 +235,10 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 - High School: [http://www.aaal.meb.k12.tr/ Ankara Atatürk Anadolu Lisesi]
 
 == Service
+- Co-chair for: \n
+  -- [https://insight-archlab.github.io/gpgpu.html GPGPU 2019]
 - Program Committee Member for: \n
+  -- ICS 2019
   -- HPCA Industrial Track 2019
   -- NAS 2017
   -- Min-Move 2017
