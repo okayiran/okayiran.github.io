@@ -25,6 +25,12 @@ Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
 interconnection networks, and die-stacking.
 
 == Publications
+- Ashutosh Pattnaik, Xulong Tang, *Onur Kayiran*, Adwait Jog, Asit Mishra, Mahmut T. Kandemir, Anand Sivasubramaniam, Chita R. Das \n
+/Opportunistic Computing in GPU Architectures/, \n
+To appear in the Proceedings of [https://iscaconf.org/isca2019/ The 46th International Symposium on Computer Architecture]
+*\<span style=\"color: FireBrick \"\>(ISCA)\<\/span\>*, Phoenix, AZ, June 2019 \n
+(Acceptance rate: 62/365 ~= %17.0) \n
+
 - Xulong Tang, Ashutosh Pattnaik, *Onur Kayiran*, Adwait Jog, Mahmut T. Kandemir, Chita R. Das \n
 [{{
 <div class="acmdlitem" id="item3287318"><img src="//dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="https://dl.acm.org/authorize?N676241" title="Quantifying Data Locality in Dynamic Parallelism in GPUs">Quantifying Data Locality in Dynamic Parallelism in GPUs</a><div style="margin-left:25px"></div>
