@@ -25,9 +25,15 @@ Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
 interconnection networks, and die-stacking.
 
 == Publications
+- Mohamed Ibrahim, Hongyuan Liu, *Onur Kayiran*, Adwait Jog \n
+/Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/, \n
+To appear in the Proceedings of [https://pactconf.org/ The 28th International Conference on Parallel Architectures and Compilation Techniques]
+*\<span style=\"color: FireBrick \"\>(PACT)\<\/span\>*, Seattle, WA, September 2019 \n
+(Acceptance rate: 36/126 ~= %28.6) \n
+
 - Ashutosh Pattnaik, Xulong Tang, *Onur Kayiran*, Adwait Jog, Asit Mishra, Mahmut T. Kandemir, Anand Sivasubramaniam, Chita R. Das \n
-/Opportunistic Computing in GPU Architectures/, \n
-To appear in the Proceedings of [https://iscaconf.org/isca2019/ The 46th International Symposium on Computer Architecture]
+[https://dl.acm.org/citation.cfm?id=3322212 /Opportunistic Computing in GPU Architectures/], \n
+In the Proceedings of [https://iscaconf.org/isca2019/ The 46th International Symposium on Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(ISCA)\<\/span\>*, Phoenix, AZ, June 2019 \n
 (Acceptance rate: 62/365 ~= %17.0) \n
 
@@ -252,6 +258,7 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
   -- NAS 2017
   -- Min-Move 2017
 - External Review Committee Member for: \n
+  -- MICRO 2019
   -- HPCA 2018
 - Reviewer for: \n
   -- TACO
