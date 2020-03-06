@@ -25,9 +25,14 @@ Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
 interconnection networks, and die-stacking.
 
 == Publications
+- Johnathan Alsop, Matthew D. Sinclair, Srikant Bharadwaj, Alexandru Dutu, Anthony Gutierrez, *Onur Kayiran*, Michael LeBeane, Sooraj Puthoor, Xianwei Zhang, Tsung Tai Yeh, Bradford M. Beckmann \n
+[https://arxiv.org/ftp/arxiv/papers/1910/1910.00134.pdf /Optimizing GPU Cache Policies for MI Workloads/], \n
+\<span style=\"color: DarkSlateBlue \"\>Short Paper\<\/span\> in [http://www.iiswc.org/iiswc2019/index.html 2019 IEEE International Symposium on Workload Characterization]
+*\<span style=\"color: FireBrick \"\>(IISWC)\<\/span\>*, Orlando, FL, November 2019 \n
+
 - Mohamed Ibrahim, Hongyuan Liu, *Onur Kayiran*, Adwait Jog \n
 [docs/pdf/RemoteCore-PACT2019.pdf /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/], \n
-To appear in the Proceedings of [https://pactconf.org/ The 28th International Conference on Parallel Architectures and Compilation Techniques]
+In the Proceedings of [https://hpc.pnl.gov/pact19//index.html The 28th International Conference on Parallel Architectures and Compilation Techniques]
 *\<span style=\"color: FireBrick \"\>(PACT)\<\/span\>*, Seattle, WA, September 2019 \n
 (Acceptance rate: 36/126 ~= %28.6) \n
 
@@ -196,6 +201,10 @@ Proceedings of [http://asplos13.rice.edu/ The 18th International Conference on A
 (Acceptance rate: 44/191 ≈ 23.0%) \n
 [docs/pptx/OWL-ASPLOS-2013-Slides.pptx \[Slides\] ]
 
+== Patents
+- Preemptive cache management policies for processing units, US10303602B2
+- Method and apparatus for performing memory prefetching, US10310981B2
+
 == Talks
 /Design and Analysis of Large-Scale GPU Architectures/
 - University of Rochester, December 2018
@@ -252,7 +261,11 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 == Service
 - Co-chair for: \n
   -- [https://insight-archlab.github.io/gpgpu.html GPGPU 2019]
+  -- [https://insight-archlab.github.io/gpgpu.html GPGPU 2020]
 - Program Committee Member for: \n
+  -- PACT 2020
+  -- YArch 2020
+  -- YArch 2019
   -- ICS 2019
   -- HPCA Industrial Track 2019
   -- NAS 2017
