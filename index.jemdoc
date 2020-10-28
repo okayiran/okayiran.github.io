@@ -26,8 +26,14 @@ interconnection networks, and die-stacking.
 
 == Publications
 - Mohamed Ibrahim, *Onur Kayiran*, Yasuko Eckert, Gabriel H. Loh, Adwait Jog \n
+[docs/pdf/DCL1-HPCA2021.pdf /Analyzing and Leveraging Decoupled L1 Caches in GPUs/], \n
+To appear in the Proceedings of [https://hpca-conf.org/2021/ The 27th IEEE International Symposium on High-Performance Computer Architecture]
+*\<span style=\"color: FireBrick \"\>(HPCA)\<\/span\>*, Seoul, South Korea, February 2021 \n
+(Acceptance rate: 63/258 ~= %24.4) \n
+
+- Mohamed Ibrahim, *Onur Kayiran*, Yasuko Eckert, Gabriel H. Loh, Adwait Jog \n
 [docs/pdf/SharedL1-PACT2020.pdf /Analyzing and Leveraging Shared L1 Caches in GPUs/], \n
-In the Proceedings of [ihttps://pact20.cc.gatech.edu/ The 29th International Conference on Parallel Architectures and Compilation Techniques]
+In the Proceedings of [https://pact20.cc.gatech.edu/ The 29th International Conference on Parallel Architectures and Compilation Techniques]
 *\<span style=\"color: FireBrick \"\>(PACT)\<\/span\>*, Atlanta, GA, October 2020 \n
 (Acceptance rate: 35/135 ~= %25.9) \n
 
@@ -269,8 +275,8 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
   -- [https://insight-archlab.github.io/gpgpu.html GPGPU 2019]
   -- [https://insight-archlab.github.io/gpgpu.html GPGPU 2020]
 - Program Committee Member for: \n
+  -- NAS 2021
   -- PACT 2020
-  -- NAS 2020
   -- uArch 2020
   -- YArch 2020
   -- MICRO SRC 2020
