@@ -216,6 +216,7 @@ Proceedings of [http://asplos13.rice.edu/ The 18th International Conference on A
 == Patents
 - Preemptive cache management policies for processing units, US10303602B2
 - Method and apparatus for performing memory prefetching, US10310981B2
+- Prioritizing local and remote memory access in a non-uniform memory access architecture, US10838864
 
 == Talks
 /Design and Analysis of Large-Scale GPU Architectures/
