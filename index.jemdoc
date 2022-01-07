@@ -25,9 +25,14 @@ Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
 interconnection networks, and die-stacking.
 
 == Publications
+- Mohamed Ibrahim, *Onur Kayiran*, Shaizeen Aga\n
+[docs/pdf/RM-MEMSYS2021.pdf /Efficient Cache Utilization via Model-aware Data Placement for Recommendation Models/], \n
+In the Proceedings of [https://www.memsys.io/ The International Symposium on Memory Systems]
+*\<span style=\"color: FireBrick \"\>(MEMSYS)\<\/span\>*, Virtual Event, September 2021 \n
+
 - Mohamed Ibrahim, *Onur Kayiran*, Yasuko Eckert, Gabriel H. Loh, Adwait Jog \n
 [docs/pdf/DCL1-HPCA2021.pdf /Analyzing and Leveraging Decoupled L1 Caches in GPUs/], \n
-To appear in the Proceedings of [https://hpca-conf.org/2021/ The 27th IEEE International Symposium on High-Performance Computer Architecture]
+In the Proceedings of [https://hpca-conf.org/2021/ The 27th IEEE International Symposium on High-Performance Computer Architecture]
 *\<span style=\"color: FireBrick \"\>(HPCA)\<\/span\>*, Seoul, South Korea, February 2021 \n
 (Acceptance rate: 63/258 ~= %24.4) \n
 
@@ -217,6 +222,8 @@ Proceedings of [http://asplos13.rice.edu/ The 18th International Conference on A
 - Preemptive cache management policies for processing units, US10303602B2
 - Method and apparatus for performing memory prefetching, US10310981B2
 - Prioritizing local and remote memory access in a non-uniform memory access architecture, US10838864
+- Mechanism for dynamic latency-bandwidth trade-off for efficient broadcasts/multicasts, US10938709
+- Mechanism for distributed-system-aware difference encoding/decoding in graph analytics, US11068458
 
 == Talks
 /Design and Analysis of Large-Scale GPU Architectures/
@@ -276,18 +283,19 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
   -- [https://insight-archlab.github.io/gpgpu.html GPGPU 2019]
   -- [https://insight-archlab.github.io/gpgpu.html GPGPU 2020]
 - Program Committee Member for: \n
-  -- YArch 2021
+  -- ICPP 2022
+  -- GPGPU 2022
+  -- YArch 2022, 2021, 2020, 2019
   -- NAS 2021
   -- PACT 2020
   -- uArch 2020
-  -- YArch 2020
   -- MICRO SRC 2020
-  -- YArch 2019
   -- ICS 2019
   -- HPCA Industrial Track 2019
   -- NAS 2017
   -- Min-Move 2017
 - External Review Committee Member for: \n
+  -- ISCA 2022
   -- MICRO 2019
   -- HPCA 2018
 - Reviewer for: \n
