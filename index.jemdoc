@@ -25,8 +25,9 @@ Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
 interconnection networks, and die-stacking.
 
 == Publications
+
 - Mohamed Ibrahim, *Onur Kayiran*, Shaizeen Aga\n
-[docs/pdf/RM-MEMSYS2021.pdf /Efficient Cache Utilization via Model-aware Data Placement for Recommendation Models/], \n
+[https://dl.acm.org/doi/10.1145/3488423.3519317?cid=81555411656 /Efficient Cache Utilization via Model-aware Data Placement for Recommendation Models/], \n
 In the Proceedings of [https://www.memsys.io/ The International Symposium on Memory Systems]
 *\<span style=\"color: FireBrick \"\>(MEMSYS)\<\/span\>*, Virtual Event, September 2021 \n
 
