@@ -21,7 +21,7 @@ in [http://www.cse.psu.edu/hpcl High Performance Computing Lab].\n
 
 == Research Interests
 Broadly, my research interests are in the area of computer architecture.
-Specifically, I work in GPU architectures, CPU-GPU heterogeneous architectures,
+Specifically, I work in CPU vector processing, GPU architectures, CPU-GPU heterogeneous architectures,
 interconnection networks, and die-stacking.
 
 == Publications
