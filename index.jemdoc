@@ -26,6 +26,16 @@ interconnection networks, and die-stacking.
 
 == Publications
 
+- *Onur Kayiran*, Mohamed Ibrahim, Shaizeen Aga\n
+[/Accelerating Ray Tracing via Processing in Memory/], \n
+In [https://www.ict.tuwien.ac.at/staff/taherinejad/iMACAW/ In-Memory Architectures and Computing Applications Workshop]
+*\<span style=\"color: FireBrick \"\>(iMACAW @ DAC 2023)\<\/span\>*, San Francisco, CA, July 2023 \n
+
+- Gabriel H. Loh, Michael J. Schulte, Mike Ignatowski, Vignesh Adhinarayanan, Shaizeen Aga, Derrick Aguren, Varun Agrawal, Ashwin M. Aji, John Alsop, Paul Bauman, Bradford M. Beckmann, Majed Valad Beigi, Sergey Blagodurov, Travis Boraten, Michael Boyer, William Brantley, Noel Chalmers, Shaoming Chen, Kevin Cheng, Michael L. Chu, David Cownie, Nicholas Curtis, Joris del Pino, Nam Duong, Alexandru Dutu, Yasuko Eckert, Christopher Erb, Chip Freitag, Joseph L. Greathouse, Sudhanva Gurumurthi, Anthony Gutierrez, Khaled Hamidouche, Sachin Hossamani, Wei Huang, Mahzabeen Islam, Nuwan Jayasena, John Kalamatianos, *Onur Kayiran*, Jagadish Kotra, Daniel Lowell, Niti Madan, Abhinandan Majumdar, Nicholas Malaya, Srilatha Manne, Susumu Mashimo, Damon McDougall, Elliott Mednick, Michael Mishkin, Mark Nutter, Indrani Paul, Matthew Poremba, Brandon Potter, Kishore Punniyamurthy, Sooraj Puthoor, Steven E. Raasch, Karthik Rao, Greg Rodgers, Marko Scrbak, Mohammad Seyedzadeh, John Slice, Vilas Sridharan, Rene van Oostrum, Eric van Tassell, Abhinav Vishnu, Samuel Wasmundt, Mark Wilkening, Noah Wolfe, Mark Wyse, Adithya Yalavarti, Dmitri Yudanov, Varun Agrawal
+[https://dl.acm.org/doi/pdf/10.1145/3579371.3589349 /A Research Retrospective on the AMD Exascale Computing Journey/], \n
+In the Proceedings of [https://iscaconf.org/isca2023/ The 50th International Symposium on Computer Architecture]
+*\<span style=\"color: FireBrick \"\>(ISCA)\<\/span\>*, Orlando, FL, June 2023 \n
+
 - Mohamed Ibrahim, *Onur Kayiran*, Shaizeen Aga\n
 [https://dl.acm.org/doi/10.1145/3488423.3519317?cid=81555411656 /Efficient Cache Utilization via Model-aware Data Placement for Recommendation Models/], \n
 In the Proceedings of [https://www.memsys.io/ The International Symposium on Memory Systems]
@@ -225,6 +235,10 @@ Proceedings of [http://asplos13.rice.edu/ The 18th International Conference on A
 - Prioritizing local and remote memory access in a non-uniform memory access architecture, US10838864
 - Mechanism for dynamic latency-bandwidth trade-off for efficient broadcasts/multicasts, US10938709
 - Mechanism for distributed-system-aware difference encoding/decoding in graph analytics, US11068458
+- Adaptive cache reconfiguration via clustering, US11360891
+- Temporal Link Encoding, US11398831
+- Memory access response merging in a memory hierarchy, US11403221
+- Memory request priority assignment techniques for parallel processors, US11507522
 
 == Talks
 /Design and Analysis of Large-Scale GPU Architectures/
@@ -241,7 +255,7 @@ Proceedings of [http://asplos13.rice.edu/ The 18th International Conference on A
 /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/ at [http://conferences.inf.ed.ac.uk/pact2013/ PACT 2013]
 
 == Experience
-- MTS Design Engineer at [http://www.amd.com/ AMD Research], December 2016 - present \n
+- Researcher at [http://www.amd.com/ AMD Research], December 2016 - present \n
 - Postdoc researcher at [http://www.amd.com/ AMD Research], July 2015 - December 2016 \n
 - Internship at [http://www.amd.com/ AMD Research], January 2015 - June 2015 \n
 - Internship at [http://www.sisa.samsung.com/ Samsung Information Systems America (SISA) R&D Center], June 2013 - August 2013 \n
