@@ -25,6 +25,11 @@ Specifically, I work in CPU arch/uarch, CPU vector processing, cache/memory hier
 
 == Publications
 
+- Rishabh Jain, Teyuh Chou, *Onur Kayiran*, John Kalamatianos, Gabriel H. Loh, Mahmut T. Kandemir, Chita R. Das\n
+Load and MLP-Aware Thread Orchestration for Recommendation Systems Inference on CPUs, \n
+Proceedings of [https://www.asplos-conference.org/asplos2025/ The 30th International Conference on Architectural Support for Programming Languages and Operating Systems]
+*\<span style=\"color: FireBrick \"\>(ASPLOS 2025)\<\/span\>*, Rotterdam, The Netherlands, April 2025 \n
+
 - *Onur Kayiran*, Mohamed Ibrahim, Shaizeen Aga\n
 Accelerating Ray Tracing via Processing in Memory, \n
 In [https://www.ict.tuwien.ac.at/staff/taherinejad/iMACAW/ In-Memory Architectures and Computing Applications Workshop]
